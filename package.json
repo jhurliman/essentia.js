@@ -1,6 +1,6 @@
 {
   "name": "@jhurliman/essentia.js",
-  "version": "0.1.0-dev",
+  "version": "0.1.1-dev",
   "description": "JavaScript library for music/audio analysis and processing for both real-time and offline audio feature extraction, powered by WebAssembly",
   "homepage": "https://mtg.github.io/essentia.js/",
   "author": "John Hurliman (https://jhurliman.org)",
