@@ -53,8 +53,5 @@
   ],
   "bugs": {
     "url": "https://github.com/MTG/essentia.js/issues"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   }
 }
